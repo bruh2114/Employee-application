@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "fullName": "Aobakwe Sithole",
+      "position": "Owner",
+      "employeeNumber": "AS011"
+    },
+    {
+      "id": 2,
+      "fullName": "Jorja Smith",
+      "position": "Sound engineer",
+      "employeeNumber": "JS213"
+    },
+    {
+      "id": 3,
+      "fullName": "Tony Stark",
+      "position": "Tech Specialist",
+      "employeeNumber": "TS442"
+    }
+  ]
